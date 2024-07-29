@@ -1,0 +1,9 @@
+flask
+black
+msal
+requests
+python-dotenv
+langchain
+langchain-core
+langchain-community
+bs4

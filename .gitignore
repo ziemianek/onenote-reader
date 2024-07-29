@@ -1,0 +1,8 @@
+# env files
+.env_files/*
+
+# pycache
+src/*/__pycache__
+
+# venv
+one-reader
